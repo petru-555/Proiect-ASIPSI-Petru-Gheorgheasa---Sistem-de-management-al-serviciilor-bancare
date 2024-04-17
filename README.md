@@ -1,1 +1,1 @@
-# Proiect-ASIPSI-Petru-Gheorgheasa---Sistem-de-management-al-serviciilor-bancare
+Link Jira: https://petrugheorgheasa.atlassian.net/jira/software/c/projects/PAPGSDMASB/boards/3/backlog?assignee=unassigned%2C712020%3A41a3a8c2-4f91-4cb6-9550-7a21ea99337e&atlOrigin=eyJpIjoiYWM1YWMwMzg5NjM2NDQ4ZGExNTFkNDQwY2RkYzI5NzEiLCJwIjoiaiJ9
